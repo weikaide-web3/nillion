@@ -1,0 +1,15 @@
+{
+  "name": "robots",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "claimRaffle.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "weikaide",
+  "license": "ISC",
+  "dependencies": {
+   "@nillion/nillion-client-js-browser": "^0.2.1"
+  }
+}
